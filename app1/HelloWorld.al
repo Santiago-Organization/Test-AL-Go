@@ -10,4 +10,3 @@ pageextension 55000 CustomerListExt extends "Customer List"
     end;
 
 }
-
